@@ -1,4 +1,4 @@
-@Smoke
+@Regression
 Feature: Create Account and Add Phone Number
 
   Background: Setup Test and Create Account
